@@ -1,4 +1,4 @@
-![logo]()
+![logo](developer_bg_pic.png)
 <h1 align="center">Hi 👋, I'm Pappu Alawa</h1>
 <h3 align="center">" Unleash Your Code's Potential, Connect with the World "</h3>
 
