@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
 <h1 align="center">Hi 👋, I'm Pappu Alawa</h1>
 <h3 align="center">" Unleash Your Code's Potential, Connect with the World "</h3>
 
