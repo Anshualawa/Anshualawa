@@ -20,7 +20,7 @@ Passionate and versatile developer with expertise in Python, JavaScript, PHP, an
 ![](https://github-contributor-stats.vercel.app/api?username=Anshualawa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://tenor.com/brXT6.gif)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anshualawa&icon=0&color=0)](https://visitcount.itsvg.in)
