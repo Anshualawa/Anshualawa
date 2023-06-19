@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Anshualawa&icon=0&color=0)](https://visitcount.itsvg.in)
 ![logo](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
 # 💫 About Me :
-Passionate and versatile developer with expertise in Python, JavaScript, PHP, and MySQL. Skilled in building robust web applications using frameworks like Django and AngularJS. Proficient in front-end development with HTML & CSS, utilizing Bootstrap for responsive designs. Experienced in version control using Git, and comfortable working with Jupyter Notebook and VS Code Studio for efficient coding. Adaptable to Linux OS and enthusiastic about exploring new technologies and frameworks. Committed to delivering high-quality solutions and continuously expanding knowledge in the ever-evolving field of web de velopment.
+Passionate and versatile developer with expertise in Python, JavaScript, PHP, and MySQL. Skilled in building robust web applications using frameworks like Django and AngularJS. Proficient in front-end development with HTML & CSS, utilizing Bootstrap for responsive designs. Experienced in version control using Git, and comfortable working with Jupyter Notebook and VS Code Studio for efficient coding. Adaptable to Linux OS and enthusiastic about exploring new technologies and frameworks. Committed to delivering high-quality solutions and continuously expanding knowledge in the ever-evolving field of web development.
 
 
 ## 🌐 Socials:
